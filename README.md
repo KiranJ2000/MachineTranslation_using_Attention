@@ -14,7 +14,7 @@ The attention model solves this by allowing the network to refer back to the inp
   
 The model was build using an **Attention model(Bahdanau Attention)**.  
 The advantage of the attention model is that instead of encoding the input sequence into a single fixed context vector, the attention model develops a context vector that is filtered specifically for each output time step.  
-In this notebook , I will be using the **Additive Attention model by Dzmitry Bahdanau**. The model aimed to improve the seq-to-seq model in machine translation by aligning the decoder with the relevant input sentences and implementing Attention.  
+In this notebook , I will be using the **Additive Attention model by Dzmitry Bahdanau**. The model aimed to improve the seq-to-seq model in machine translation, by aligning the decoder with the relevant input sentences and implementing Attention.  
 
 To simplify things here is a small image :  
   
