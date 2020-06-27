@@ -1,7 +1,7 @@
 # Machine Translation using Attention
 
 The objective of this project is to convert an **English** sentence to it's **Italian** counterpart using a Neural Machine Translation system. The task will be implemented by using attention, specifically **Bahdanau attention**.  
-The main reason for not using the encoder-decoder method is because of the infamous **bottleneck problem**,ie, all the information is encoded in to one fixed-length vector.  
+The main reason for not using the encoder-decoder method is because of the infamous **bottleneck problem**, ie, all the information is encoded in to one fixed-length vector.  
 The attention model solves this by allowing the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  
 
 ## Resources Used  
