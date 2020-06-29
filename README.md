@@ -8,7 +8,8 @@ The attention model solves this by allowing the network to refer back to the inp
 
 * **Python version :** 3.7
 * **Tensorflow version :** 2.2
-* **Packages Used :** numpy,pandas,seaborn,sklearn,tensorflow,nltk  
+* **Packages Used :** numpy,pandas,seaborn,sklearn,tensorflow,nltk.  
+
   
 ## Model building  
   
