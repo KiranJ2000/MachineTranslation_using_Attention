@@ -35,7 +35,7 @@ The Attention mechanism has revolutionised the way we create NLP models and is c
   
 ![nmt_pic2](https://user-images.githubusercontent.com/42802226/83964076-e4df0200-a8c7-11ea-866b-b5f4696e982f.JPG)  
   
-Even though the model gave good results on samples which it has never seen before, some were not perfect. The challenge of training an effective model can be attributed largely to the **lack of training data and training time**. Due to the complex nature of the different languages involved and a large number of vocabulary and grammatical permutations, an effective model **will require tons of data and training time** before any perfect results can be seen on the evaluation data.  
+Even though the model gave good results on samples which it has never seen before, some were not perfect. The challenge of training an effective model can be attributed largely to the **lack of training data and training time**. Due to the complex nature of the different languages involved, and a large number of vocabulary and grammatical permutations, an effective model **will require tons of data and training time** before any perfect results can be seen on the evaluation data.  
   
 **More examples can be seen in the result folder and also in the last part of the notebook.**
 
